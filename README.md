@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="trainers.jpg" alt="Investigating Netflix Movies" width="70%" />
+</p>
 # Analyzing Online Sports Revenue
 
 EDA on Adidas and Nike product data to see how price tier and description length relate to revenue, ratings, and reviews.
